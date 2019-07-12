@@ -1,0 +1,1 @@
+web: ./build/install/1819-1-LI41N-G8/bin/1819-1-LI41N-G8
